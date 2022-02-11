@@ -22,10 +22,6 @@ const addfeedback = (req, res) => {
             });
         };
 
-// const getfeedback = (req, res) => {
-//     console.log('getting feeedbacks');
-//     res.send("using api route");
-// };
 
 module.exports = {
     getfeedback,
